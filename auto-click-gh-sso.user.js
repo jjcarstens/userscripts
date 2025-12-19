@@ -3,7 +3,7 @@
 // @version      0.1.0
 // @description  Click the "Continue" button when GitHub needs you to sign into an org again
 // @author       Jon Carstens
-// @match        https://github.com/*/sso*
+// @match        https://github.com/*
 // ==/UserScript==
 
 (function() {
